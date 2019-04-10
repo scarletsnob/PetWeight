@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="xchart-3.5.4/__MACOSX/xchart-3.5.4/._xchart-3.5.4.jar"/>
+	<classpathentry kind="lib" path="xchart-3.5.4/__MACOSX/xchart-3.5.4/._xchart-demo-3.5.4.jar"/>
+	<classpathentry kind="lib" path="xchart-3.5.4/xchart-3.5.4.jar"/>
+	<classpathentry kind="lib" path="xchart-3.5.4/xchart-demo-3.5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
