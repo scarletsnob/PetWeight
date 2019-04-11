@@ -1,0 +1,5 @@
+- jchart valittu kirjastoksi
+- jchart liian monimutkainen, vaihdettu xchart
+- luettu paljon xchart dokumentaatiota
+- saatiin graafin piirto toimimaan
+- saatiin graafin piirto tiedostosta toimimaan
